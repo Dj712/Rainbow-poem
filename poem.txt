@@ -1,4 +1,4 @@
-The colors of rainbow
+The colors of rainbow and Unicorn
 red
 orange
 yellow
@@ -6,3 +6,4 @@ green
 blue
 indigo
 violet
+adding unicorns
